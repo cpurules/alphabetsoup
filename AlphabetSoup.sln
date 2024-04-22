@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphabetSoup.Core.Tiles", "AlphabetSoup.Core.Tiles\AlphabetSoup.Core.Tiles.csproj", "{F5512985-5A43-493F-8801-D6EAD305E186}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphabetSoup.Core.Tests", "AlphabetSoup.Core.Tests\AlphabetSoup.Core.Tests.csproj", "{E4D05C97-9F29-4269-BF58-DF7D55954703}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5512985-5A43-493F-8801-D6EAD305E186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5512985-5A43-493F-8801-D6EAD305E186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5512985-5A43-493F-8801-D6EAD305E186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5512985-5A43-493F-8801-D6EAD305E186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4D05C97-9F29-4269-BF58-DF7D55954703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D05C97-9F29-4269-BF58-DF7D55954703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D05C97-9F29-4269-BF58-DF7D55954703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D05C97-9F29-4269-BF58-DF7D55954703}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {167D9027-5E1A-41A1-86ED-AB525F37C100}
+	EndGlobalSection
+EndGlobal

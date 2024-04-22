@@ -1,0 +1,11 @@
+C:\Users\Charlie\source\repos\AlphabetSoup\AlphabetSoup.Core.Tiles\bin\Debug\net8.0\AlphabetSoup.Core.Tiles.deps.json
+C:\Users\Charlie\source\repos\AlphabetSoup\AlphabetSoup.Core.Tiles\bin\Debug\net8.0\AlphabetSoup.Core.Tiles.dll
+C:\Users\Charlie\source\repos\AlphabetSoup\AlphabetSoup.Core.Tiles\bin\Debug\net8.0\AlphabetSoup.Core.Tiles.pdb
+C:\Users\Charlie\source\repos\AlphabetSoup\AlphabetSoup.Core.Tiles\obj\Debug\net8.0\AlphabetSoup.Core.Tiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charlie\source\repos\AlphabetSoup\AlphabetSoup.Core.Tiles\obj\Debug\net8.0\AlphabetSoup.Core.Tiles.AssemblyInfoInputs.cache
+C:\Users\Charlie\source\repos\AlphabetSoup\AlphabetSoup.Core.Tiles\obj\Debug\net8.0\AlphabetSoup.Core.Tiles.AssemblyInfo.cs
+C:\Users\Charlie\source\repos\AlphabetSoup\AlphabetSoup.Core.Tiles\obj\Debug\net8.0\AlphabetSoup.Core.Tiles.csproj.CoreCompileInputs.cache
+C:\Users\Charlie\source\repos\AlphabetSoup\AlphabetSoup.Core.Tiles\obj\Debug\net8.0\AlphabetSoup.Core.Tiles.dll
+C:\Users\Charlie\source\repos\AlphabetSoup\AlphabetSoup.Core.Tiles\obj\Debug\net8.0\refint\AlphabetSoup.Core.Tiles.dll
+C:\Users\Charlie\source\repos\AlphabetSoup\AlphabetSoup.Core.Tiles\obj\Debug\net8.0\AlphabetSoup.Core.Tiles.pdb
+C:\Users\Charlie\source\repos\AlphabetSoup\AlphabetSoup.Core.Tiles\obj\Debug\net8.0\ref\AlphabetSoup.Core.Tiles.dll

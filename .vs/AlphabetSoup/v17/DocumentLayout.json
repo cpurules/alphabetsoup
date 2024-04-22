@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Charlie\\source\\repos\\AlphabetSoup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D05C97-9F29-4269-BF58-DF7D55954703}|AlphabetSoup.Core.Tests\\AlphabetSoup.Core.Tests.csproj|c:\\users\\charlie\\source\\repos\\alphabetsoup\\alphabetsoup.core.tests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D05C97-9F29-4269-BF58-DF7D55954703}|AlphabetSoup.Core.Tests\\AlphabetSoup.Core.Tests.csproj|solutionrelative:alphabetsoup.core.tests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5512985-5A43-493F-8801-D6EAD305E186}|AlphabetSoup.Core.Tiles\\AlphabetSoup.Core.Tiles.csproj|c:\\users\\charlie\\source\\repos\\alphabetsoup\\alphabetsoup.core.tiles\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5512985-5A43-493F-8801-D6EAD305E186}|AlphabetSoup.Core.Tiles\\AlphabetSoup.Core.Tiles.csproj|solutionrelative:alphabetsoup.core.tiles\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5512985-5A43-493F-8801-D6EAD305E186}|AlphabetSoup.Core.Tiles\\AlphabetSoup.Core.Tiles.csproj|c:\\users\\charlie\\source\\repos\\alphabetsoup\\alphabetsoup.core.tiles\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5512985-5A43-493F-8801-D6EAD305E186}|AlphabetSoup.Core.Tiles\\AlphabetSoup.Core.Tiles.csproj|solutionrelative:alphabetsoup.core.tiles\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5512985-5A43-493F-8801-D6EAD305E186}|AlphabetSoup.Core.Tiles\\AlphabetSoup.Core.Tiles.csproj|c:\\users\\charlie\\source\\repos\\alphabetsoup\\alphabetsoup.core.tiles\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5512985-5A43-493F-8801-D6EAD305E186}|AlphabetSoup.Core.Tiles\\AlphabetSoup.Core.Tiles.csproj|solutionrelative:alphabetsoup.core.tiles\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5512985-5A43-493F-8801-D6EAD305E186}|AlphabetSoup.Core.Tiles\\AlphabetSoup.Core.Tiles.csproj|c:\\users\\charlie\\source\\repos\\alphabetsoup\\alphabetsoup.core.tiles\\dicetileroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5512985-5A43-493F-8801-D6EAD305E186}|AlphabetSoup.Core.Tiles\\AlphabetSoup.Core.Tiles.csproj|solutionrelative:alphabetsoup.core.tiles\\dicetileroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5512985-5A43-493F-8801-D6EAD305E186}|AlphabetSoup.Core.Tiles\\AlphabetSoup.Core.Tiles.csproj|c:\\users\\charlie\\source\\repos\\alphabetsoup\\alphabetsoup.core.tiles\\randomtileroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5512985-5A43-493F-8801-D6EAD305E186}|AlphabetSoup.Core.Tiles\\AlphabetSoup.Core.Tiles.csproj|solutionrelative:alphabetsoup.core.tiles\\randomtileroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5512985-5A43-493F-8801-D6EAD305E186}|AlphabetSoup.Core.Tiles\\AlphabetSoup.Core.Tiles.csproj|c:\\users\\charlie\\source\\repos\\alphabetsoup\\alphabetsoup.core.tiles\\itileroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5512985-5A43-493F-8801-D6EAD305E186}|AlphabetSoup.Core.Tiles\\AlphabetSoup.Core.Tiles.csproj|solutionrelative:alphabetsoup.core.tiles\\itileroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5512985-5A43-493F-8801-D6EAD305E186}|AlphabetSoup.Core.Tiles\\AlphabetSoup.Core.Tiles.csproj|c:\\users\\charlie\\source\\repos\\alphabetsoup\\alphabetsoup.core.tiles\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5512985-5A43-493F-8801-D6EAD305E186}|AlphabetSoup.Core.Tiles\\AlphabetSoup.Core.Tiles.csproj|solutionrelative:alphabetsoup.core.tiles\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5512985-5A43-493F-8801-D6EAD305E186}|AlphabetSoup.Core.Tiles\\AlphabetSoup.Core.Tiles.csproj|c:\\users\\charlie\\source\\repos\\alphabetsoup\\alphabetsoup.core.tiles\\extensions\\linqextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5512985-5A43-493F-8801-D6EAD305E186}|AlphabetSoup.Core.Tiles\\AlphabetSoup.Core.Tiles.csproj|solutionrelative:alphabetsoup.core.tiles\\extensions\\linqextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tile.cs",
+              "DocumentMoniker": "C:\\Users\\Charlie\\source\\repos\\AlphabetSoup\\AlphabetSoup.Core.Tiles\\Tile.cs",
+              "RelativeDocumentMoniker": "AlphabetSoup.Core.Tiles\\Tile.cs",
+              "ToolTip": "C:\\Users\\Charlie\\source\\repos\\AlphabetSoup\\AlphabetSoup.Core.Tiles\\Tile.cs",
+              "RelativeToolTip": "AlphabetSoup.Core.Tiles\\Tile.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T08:45:06.783Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Charlie\\source\\repos\\AlphabetSoup\\AlphabetSoup.Core.Tiles\\Game.cs",
+              "RelativeDocumentMoniker": "AlphabetSoup.Core.Tiles\\Game.cs",
+              "ToolTip": "C:\\Users\\Charlie\\source\\repos\\AlphabetSoup\\AlphabetSoup.Core.Tiles\\Game.cs",
+              "RelativeToolTip": "AlphabetSoup.Core.Tiles\\Game.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T22:19:10.837Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Charlie\\source\\repos\\AlphabetSoup\\AlphabetSoup.Core.Tiles\\Player.cs",
+              "RelativeDocumentMoniker": "AlphabetSoup.Core.Tiles\\Player.cs",
+              "ToolTip": "C:\\Users\\Charlie\\source\\repos\\AlphabetSoup\\AlphabetSoup.Core.Tiles\\Player.cs",
+              "RelativeToolTip": "AlphabetSoup.Core.Tiles\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T22:20:08.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LinqExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Charlie\\source\\repos\\AlphabetSoup\\AlphabetSoup.Core.Tiles\\Extensions\\LinqExtensions.cs",
+              "RelativeDocumentMoniker": "AlphabetSoup.Core.Tiles\\Extensions\\LinqExtensions.cs",
+              "ToolTip": "C:\\Users\\Charlie\\source\\repos\\AlphabetSoup\\AlphabetSoup.Core.Tiles\\Extensions\\LinqExtensions.cs",
+              "RelativeToolTip": "AlphabetSoup.Core.Tiles\\Extensions\\LinqExtensions.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwCQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T21:52:16.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiceTileRoller.cs",
+              "DocumentMoniker": "C:\\Users\\Charlie\\source\\repos\\AlphabetSoup\\AlphabetSoup.Core.Tiles\\DiceTileRoller.cs",
+              "RelativeDocumentMoniker": "AlphabetSoup.Core.Tiles\\DiceTileRoller.cs",
+              "ToolTip": "C:\\Users\\Charlie\\source\\repos\\AlphabetSoup\\AlphabetSoup.Core.Tiles\\DiceTileRoller.cs",
+              "RelativeToolTip": "AlphabetSoup.Core.Tiles\\DiceTileRoller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T21:47:09.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RandomTileRoller.cs",
+              "DocumentMoniker": "C:\\Users\\Charlie\\source\\repos\\AlphabetSoup\\AlphabetSoup.Core.Tiles\\RandomTileRoller.cs",
+              "RelativeDocumentMoniker": "AlphabetSoup.Core.Tiles\\RandomTileRoller.cs",
+              "ToolTip": "C:\\Users\\Charlie\\source\\repos\\AlphabetSoup\\AlphabetSoup.Core.Tiles\\RandomTileRoller.cs",
+              "RelativeToolTip": "AlphabetSoup.Core.Tiles\\RandomTileRoller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T21:44:32.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITileRoller.cs",
+              "DocumentMoniker": "C:\\Users\\Charlie\\source\\repos\\AlphabetSoup\\AlphabetSoup.Core.Tiles\\ITileRoller.cs",
+              "RelativeDocumentMoniker": "AlphabetSoup.Core.Tiles\\ITileRoller.cs",
+              "ToolTip": "C:\\Users\\Charlie\\source\\repos\\AlphabetSoup\\AlphabetSoup.Core.Tiles\\ITileRoller.cs",
+              "RelativeToolTip": "AlphabetSoup.Core.Tiles\\ITileRoller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T21:41:40.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Charlie\\source\\repos\\AlphabetSoup\\AlphabetSoup.Core.Tests\\Program.cs",
+              "RelativeDocumentMoniker": "AlphabetSoup.Core.Tests\\Program.cs",
+              "ToolTip": "C:\\Users\\Charlie\\source\\repos\\AlphabetSoup\\AlphabetSoup.Core.Tests\\Program.cs",
+              "RelativeToolTip": "AlphabetSoup.Core.Tests\\Program.cs",
+              "ViewState": "AQIAACoAAAAAnpmZmdkpwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T20:05:10.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\Charlie\\source\\repos\\AlphabetSoup\\AlphabetSoup.Core.Tiles\\Board.cs",
+              "RelativeDocumentMoniker": "AlphabetSoup.Core.Tiles\\Board.cs",
+              "ToolTip": "C:\\Users\\Charlie\\source\\repos\\AlphabetSoup\\AlphabetSoup.Core.Tiles\\Board.cs",
+              "RelativeToolTip": "AlphabetSoup.Core.Tiles\\Board.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvxsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T08:51:48.427Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
